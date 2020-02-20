@@ -4,9 +4,6 @@ import matplotlib
 import matplotlib.pyplot as plt
 import os
 
-
-
-
 FILE_PATH = 'energy_histo'
 
 fig = plt.figure(figsize=(14, 8))
